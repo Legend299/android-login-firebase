@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/alert_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_alert_dialog_title_top_left_top_right.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_alert_dialog_white_corner.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_login_button.xml" value="0.3595" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_login_signup.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_login_signup_color1.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_login_signup_color2.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_login_signup_color3.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/bg_register_button.xml" value="0.3595" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/color1.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_account_circle.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_article.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_assignment.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_celebration.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_email.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_house.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_lock.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/ic_phone.xml" value="0.2475" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/input_customized.xml" value="0.2255" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/drawable/slide_up.xml" value="0.1745" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/activity_home.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/activity_login.xml" value="0.21875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/activity_main.xml" value="0.21875" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/alert_profile_dialog.xml" value="0.5" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/layout/row_user.xml" value="0.1996579734929457" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/Login_Firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2475" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
